@@ -1,0 +1,11 @@
+{
+  "name": "create-flutter-app",
+  "description": "Create a new Flutter mobile app with up-to-date defaults for iOS and Android",
+  "version": "1.0.0",
+  "author": {
+    "name": "Emerson Macedo"
+  },
+  "homepage": "https://github.com/frankenstein-ai/agent-skills",
+  "repository": "https://github.com/frankenstein-ai/agent-skills",
+  "license": "MIT"
+}
