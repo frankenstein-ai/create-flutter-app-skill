@@ -6,7 +6,7 @@ A [Claude Code](https://claude.ai/code) plugin that scaffolds production-ready F
 
 ```
 /plugin marketplace add frankenstein-ai/agent-skills
-/plugin install frankenstein-ai/agent-skills/create-flutter-app
+/plugin install frankenstein-ai/create-flutter-app
 ```
 
 ## Usage
